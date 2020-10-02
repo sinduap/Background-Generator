@@ -15,5 +15,5 @@ function setGradient() {
     " " +
     inputColor2.value +
     ")";
-  css.textContent = body.style.background;
+  css.textContent = body.style.background + ";";
 }
